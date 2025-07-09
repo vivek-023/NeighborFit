@@ -1,0 +1,2 @@
+# requirements.txt
+# Add Flask and other backend dependencies here 

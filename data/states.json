@@ -1,0 +1,1638 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "cities": [
+      {
+        "name": "Visakhapatnam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Vijayawada",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Guntur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nellore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kurnool",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rajahmundry",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kakinada",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tirupati",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Anantapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kadapa",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "cities": [
+      {
+        "name": "Itanagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Naharlagun",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pasighat",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bomdila",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tawang",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ziro",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Along",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tezu",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Roing",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Changlang",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Assam",
+    "cities": [
+      {
+        "name": "Guwahati",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Silchar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dibrugarh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jorhat",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tinsukia",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tezpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nagaon",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bongaigaon",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Goalpara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Karimganj",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Bihar",
+    "cities": [
+      {
+        "name": "Patna",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Gaya",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bhagalpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Muzaffarpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Purnia",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Darbhanga",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bihar Sharif",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Arrah",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Begusarai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Katihar",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Chhattisgarh",
+    "cities": [
+      {
+        "name": "Raipur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bhilai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Korba",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bilaspur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Durg",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rajnandgaon",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jagdalpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Raigarh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ambikapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mahasamund",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Goa",
+    "cities": [
+      {
+        "name": "Panaji",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Margao",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Vasco da Gama",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mapusa",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ponda",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sanquelim",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bicholim",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Valpoi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sanguem",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Canacona",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Gujarat",
+    "cities": [
+      {
+        "name": "Ahmedabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Surat",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Vadodara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rajkot",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bhavnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jamnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Gandhinagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Anand",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bharuch",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Junagadh",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Haryana",
+    "cities": [
+      {
+        "name": "Gurgaon",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Faridabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Panipat",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Yamunanagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rohtak",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hisar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Karnal",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sonipat",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Panchkula",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ambala",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Himachal Pradesh",
+    "cities": [
+      {
+        "name": "Shimla",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mandi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Solan",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kullu",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dharamshala",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bilaspur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Una",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hamirpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Chamba",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kangra",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Jharkhand",
+    "cities": [
+      {
+        "name": "Ranchi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jamshedpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dhanbad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bokaro",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Deoghar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hazaribagh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Giridih",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ramgarh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Medininagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Chatra",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Karnataka",
+    "cities": [
+      {
+        "name": "Bangalore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mysore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hubli",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mangalore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Belgaum",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Gulbarga",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Davanagere",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bellary",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bijapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Shimoga",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Kerala",
+    "cities": [
+      {
+        "name": "Kochi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kozhikode",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Thrissur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kollam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Alappuzha",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Palakkad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kannur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kottayam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pathanamthitta",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Madhya Pradesh",
+    "cities": [
+      {
+        "name": "Bhopal",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Indore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jabalpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Gwalior",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ujjain",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dewas",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Satna",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ratlam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rewa",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Maharashtra",
+    "cities": [
+      {
+        "name": "Mumbai",
+        "image_url": "",
+        "locations": [
+          {
+            "name": "Bandra",
+            "image_url": "",
+            "reviews": [
+              {
+                "id": 1,
+                "user": "traveler123",
+                "text": "Amazing neighborhood! Great cafes and restaurants. The Bandra Bandstand is perfect for evening walks.",
+                "likes_by": [
+                  "user1",
+                  "user2"
+                ],
+                "dislikes_by": []
+              },
+              {
+                "id": 2,
+                "user": "foodie_here",
+                "text": "Best food scene in Mumbai! So many trendy restaurants and street food options.",
+                "likes_by": [
+                  "user3"
+                ],
+                "dislikes_by": []
+              }
+            ]
+          },
+          {
+            "name": "Andheri",
+            "image_url": "",
+            "reviews": [
+              {
+                "id": 3,
+                "user": "business_pro",
+                "text": "Great for business travelers. Many corporate offices and good connectivity.",
+                "likes_by": [
+                  "user4"
+                ],
+                "dislikes_by": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pune",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nagpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Thane",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nashik",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Aurangabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Solapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kolhapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Amravati",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nanded",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Manipur",
+    "cities": [
+      {
+        "name": "Imphal",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Thoubal",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bishnupur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Churachandpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Senapati",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tamenglong",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Chandel",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ukhrul",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kangpokpi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jiribam",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Meghalaya",
+    "cities": [
+      {
+        "name": "Shillong",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tura",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jowai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nongstoin",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Williamnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nongpoh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Baghmara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Resubelpara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mairang",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Amlarem",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Mizoram",
+    "cities": [
+      {
+        "name": "Aizawl",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Lunglei",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Saiha",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Champhai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Serchhip",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kolasib",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mamit",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Lawngtlai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Saitual",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Khawzawl",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Nagaland",
+    "cities": [
+      {
+        "name": "Kohima",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dimapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mokokchung",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tuensang",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Wokha",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Zunheboto",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Phek",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mon",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Longleng",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kiphire",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Odisha",
+    "cities": [
+      {
+        "name": "Bhubaneswar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Cuttack",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rourkela",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Brahmapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sambalpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Puri",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Balasore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bhadrak",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Baripada",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jharsuguda",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Punjab",
+    "cities": [
+      {
+        "name": "Ludhiana",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Amritsar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jalandhar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Patiala",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bathinda",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pathankot",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hoshiarpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Moga",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Firozpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sangrur",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan",
+    "cities": [
+      {
+        "name": "Jaipur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jodhpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kota",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bikaner",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ajmer",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Udaipur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bhilwara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Alwar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sri Ganganagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sikar",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Sikkim",
+    "cities": [
+      {
+        "name": "Gangtok",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Namchi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Geyzing",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mangan",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rangpo",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Singtam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Jorethang",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pelling",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Lachung",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Lachen",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Tamil Nadu",
+    "cities": [
+      {
+        "name": "Chennai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Coimbatore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Madurai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Salem",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tiruchirappalli",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Vellore",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Erode",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Tiruppur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Thoothukkudi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dindigul",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Telangana",
+    "cities": [
+      {
+        "name": "Hyderabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Warangal",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nizamabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Karimnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ramagundam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Khammam",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Mahbubnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Nalgonda",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Adilabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Siddipet",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Tripura",
+    "cities": [
+      {
+        "name": "Agartala",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Udaipur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dharmanagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kailasahar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Belonia",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Khowai",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ambassa",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Sabroom",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kamalpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Teliamura",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Uttar Pradesh",
+    "cities": [
+      {
+        "name": "Lucknow",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kanpur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ghaziabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Agra",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Varanasi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Meerut",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Allahabad",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bareilly",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Aligarh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Moradabad",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Uttarakhand",
+    "cities": [
+      {
+        "name": "Dehradun",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Haridwar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Roorkee",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Haldwani",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rudrapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kashipur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rishikesh",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kotdwara",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Ramnagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pithoragarh",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "West Bengal",
+    "cities": [
+      {
+        "name": "Kolkata",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Howrah",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Durgapur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Asansol",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Siliguri",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Bardhaman",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Malda",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Baharampur",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Habra",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Kharagpur",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  },
+  {
+    "name": "Delhi",
+    "cities": [
+      {
+        "name": "New Delhi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Old Delhi",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Dwarka",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Rohini",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Pitampura",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Janakpuri",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Lajpat Nagar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Saket",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Vasant Vihar",
+        "image_url": "",
+        "locations": []
+      },
+      {
+        "name": "Hauz Khas",
+        "image_url": "",
+        "locations": []
+      }
+    ]
+  }
+]
